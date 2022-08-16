@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samet-inanan
-- 👀 I’m interested in JavaScript, HTML, CSS, Bootstrap and other web programming languages.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in HTML, CSS, Bootstrap, JavaScript & ASP.NET and other web programming languages. Except this i'm working on Cyber Security.
+- 🌱 Also I’m currently working on BİTES Defence & Aerospace Company as a Software Support Specialist. 
 - 💞️ I’m looking to collaborate on Web Programming.
 - 📫 How to reach me a.samet.inanan1@outlook.com
 
