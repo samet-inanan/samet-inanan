@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web Programming**
 
-- 💬 Ask me about **html, css, bootstrap, js, python, c/c++, c#, .net**
+- 💬 Ask me about **Html, Css, Bootstrap, Js, Python, C/C++, C#, .Net/ASP.Net, MySql/MsSql/PostgreSql, RPA, Open source softwares (like Zabbix etc.)**
 
 - 📫 How to reach me **a.samet.inanan1@outlook.com**
 
